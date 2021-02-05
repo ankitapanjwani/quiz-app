@@ -1,0 +1,19 @@
+.card-show{
+    margin-left: 35%;
+    height: auto;
+    width: 500px;
+   
+}
+.carde{
+    margin-bottom: 30%;
+}
+.card{
+    
+    margin: 25px;
+    background-color: #d3e7e1;
+    border: 2px solid black;
+}
+.card-title{
+    font-weight: bold;
+    font-size: 25px;
+}

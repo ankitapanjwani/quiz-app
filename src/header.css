@@ -1,0 +1,23 @@
+.navcolor{
+background-color: #001f3f !important;
+}
+
+
+.searchbtn{
+    border: 2px solid white;
+    background-color: #001f3f;
+}
+.searchbtn:hover{
+    background-color: #001f3f;
+    border: 2px solid white;
+}
+.sectionheader{
+    background-color: #20c997;
+    height: 500px;
+}
+.logoImage{
+    height: 300px;
+    width:30%;
+   margin-top: 100px;
+   margin-left: 35%;
+}
